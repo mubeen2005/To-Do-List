@@ -159,7 +159,41 @@ html,body{
 }
 
 
-@media (min-width:426px) and (max-width:769px) {
+@media (min-width:427px) and (max-width:769px) {
+  .input-container input {
+    width: 83%;
+    padding: 0.6rem 1rem;
+    outline: none;
+    font-size: 1rem;
+    border: none;
+    background-color: #e4dddd ;
+    border-radius: 4px;
+}
+
+.main-container{
+    width: 75%;
+    min-height: 20vh;
+    background-color: white;
+    border-radius: 20px;
+    padding: 30px 20px;
+}
+
+.task-container .task{
+  display: flex;
+  flex-direction: column;
+  min-height: 20vh;
+  padding: 10px;
+  align-items: flex-start;
+}
+
+.task-container .task p{
+ width: 100px;
+}
+
+}
+
+
+@media (min-width:769px) and (max-width:1025px) {
   .input-container input {
     width: 83%;
     padding: 0.6rem 1rem;
