@@ -6,15 +6,14 @@ A sleek and simple **To-Do List App** built using **HTML**, **CSS**, and **JavaS
 
 ## 🌐 Live Demo
 
-🔗 [Try it Live](https://your-live-demo-link.com)  
-*(Replace with your GitHub Pages or deployment link)*
+🔗 [Try it Live]( https://mubeen2005.github.io/To-Do-List/)  
+
 
 ---
 
 ## 🖼️ Preview
 
-![To-Do App Preview](assets/todo-preview.png)  
-*A screenshot or GIF showing the to-do list interface and features.*
+![To-Do App Preview](to-do-list.PNG)  
 
 ---
 
